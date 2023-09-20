@@ -25,8 +25,7 @@ export default function App() {
     image.onload = function () {
       EXIF.getData(image as any, function () {
         // 保有している情報を確認
-        const tags = EXIF.getAllTags(image);
-        console.log({ tags });
+        console.log(EXIF.pretty(image));
 
         //日時の情報を取得
         const original_date = EXIF.getTag(image, "DateTimeOriginal");
