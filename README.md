@@ -1,4 +1,6 @@
 ## exif情報を扱うReactライブラリ
+codesandbox(無料版)を使うためpublicにしています.  
+プログラムは動作確認用に過ぎません.
 
 ### exif-react
 exif-jsを利用してexif情報を取得するReactコンポーネント  
