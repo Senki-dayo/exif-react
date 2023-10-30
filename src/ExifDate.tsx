@@ -38,7 +38,7 @@ export default function ExifDate() {
 
   return (
     <div className="App">
-      <h1>exif-js Date Test</h1>
+      <h2>exif-js Date Test</h2>
       <input ref={inputRef} onChange={onChange} type="file" />
     </div>
   );
