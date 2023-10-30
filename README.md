@@ -11,4 +11,5 @@ exifr-jsを利用してexif情報を取得するReactコンポーネント
 
 ### 参考サイト
 [exif.js](https://github.com/exif-js/exif-js)  
+[exifr.js](https://mutiny.cz/exifr/)  
 [参考サイト](https://www.sukerou.com/2022/12/javascirptexif.html)
